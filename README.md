@@ -8,5 +8,5 @@ This project was created with "Express PCB Plus"
 ### 2022-12-04 (beta versione PICCINO R1)
 * *Schematic complete*
 * *Board coplete*
-* *Export in various formats (PDF, SVG, PNG, GCODE, EstlCam
+* *Export in various formats (PDF, SVG, PNG, GCODE, EstlCam*
    
